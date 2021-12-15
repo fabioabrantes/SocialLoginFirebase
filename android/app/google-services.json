@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332760196799",
+    "project_id": "projeto-social-login-9f1ef",
+    "storage_bucket": "projeto-social-login-9f1ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332760196799:android:ac544e7041d8c8487e880a",
+        "android_client_info": {
+          "package_name": "com.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332760196799-f45v2lf561gj3n5vq845emiini3lcj0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEvZ0D_fqhX0frnT86YBrkiBrJvhgemsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332760196799-f45v2lf561gj3n5vq845emiini3lcj0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
