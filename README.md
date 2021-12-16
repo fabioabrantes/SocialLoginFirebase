@@ -3,7 +3,7 @@
 
 O login social é um recurso que está presente em cerca de 80% dos aplicativos atualmente. É um recurso que traz facilidade para o usuário criar um cadastro em seu aplicativo e logar-se novamente utilizando uma de suas redes sociais!
 
-Neste vídeo iremos fazer a integração do react native com o firebase, possibilitando fazer a integração com as redes sociais e salvar as credenciais diretamente no firebase, sem precisarmos de um banco de dados para isso.
+Neste vídeo de pablo foi feito a integração do react native com o firebase, possibilitando fazer a integração com as redes sociais e salvar as credenciais diretamente no firebase, sem precisarmos de um banco de dados para isso.
 
 ## configurar um projeto com autenticação no firebase
 - https://firebase.google.com/
