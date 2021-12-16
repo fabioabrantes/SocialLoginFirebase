@@ -27,10 +27,5 @@ No vídeo de pablo do Expert Club foi feito a integração do react native com o
 - depois em build.gradle na past app, adiciona apply plugin: 'com.google.gms.google-services'
 - depois no App.tsx importa dos serviços (GoogleSignin eSettings) do google e facebook respectivamente para inicializar na aplicação.
 ## Foi feito outras configurações para inicializar a sdk do Facebook
-- Na pasta Android, no arquivo AndroidManifest.xml, dentro da tag Application logo abaixo do Activity eu adicionei essa linha:
-      <meta-data 
-         android:name="com.facebook.sdk.ApplicationId"                 
-         android:value="@string/facebook_app_id"
-      />
-- Depois, para ele reconhecer a string facebook_app_id, eu fui na pasta Android > res > values e no arquivo strings.xml adicionei dentro de resources esse valor:
-    <string name="facebook_app_id">APP_ID</string>
+- Na pasta Android, no arquivo AndroidManifest.xml, dentro da tag Application logo abaixo do Activity eu adicionei essa linha: "<meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>"
+- Depois, para ele reconhecer a string facebook_app_id, eu fui na pasta Android > res > values e no arquivo strings.xml adicionei dentro de resources esse valor: "<string name="facebook_app_id">APP_ID</string>"
